@@ -1,0 +1,35 @@
+{
+    "timetables": {
+        "general_timetable_link": "https://www.heritageit.edu/routines.aspx"
+    },
+    "faculty": {
+        "department_pages": [
+            {"department": "AEIE", "url": "https://www.heritageit.edu/AEIE.aspx"},
+            {"department": "BT", "url": "https://www.heritageit.edu/BT.aspx"},
+            {"department": "ChemEngg", "url": "https://www.heritageit.edu/ChemEngg.aspx"},
+            {"department": "CE", "url": "https://www.heritageit.edu/CE.aspx"},
+            {"department": "CSE", "url": "https://www.heritageit.edu/CSE.aspx"},
+            {"department": "CSBS", "url": "https://www.heritageit.edu/CSBS.aspx"},
+            {"department": "CSE_AIML", "url": "http://heritageit.edu/CSE_AIML.aspx"},
+            {"department": "CSE_DSc", "url": "https://www.heritageit.edu/CSE_DSc.aspx"},
+            {"department": "CSE_IoTCS", "url": "https://www.heritageit.edu/CSE_IoTCS.aspx"},
+            {"department": "EE", "url": "https://www.heritageit.edu/EE.aspx"},
+            {"department": "ECE", "url": "https://www.heritageit.edu/ECE.aspx"},
+            {"department": "IT", "url": "https://www.heritageit.edu/IT.aspx"},
+            {"department": "ME", "url": "https://www.heritageit.edu/ME.aspx"}
+        ]
+    },
+    "holidays": {
+        "yearly_list_pdf": "https://www.heritageit.edu/PDF/HIT_HolidayList2025.pdf"
+    },
+     "pyqs": {
+         "deptpyq": [
+            {"year": "2025","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2025&filtertype=equals"},
+            {"year": "2024","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2024&filtertype=equals"},
+            {"year": "2023","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2023&filtertype=equals"},
+            {"year": "2022","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2022&filtertype=equals"},
+            {"year": "2021","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2021&filtertype=equals"},
+            {"year": "2020","url": "http://heritageit.dspaces.org/handle/123456789/237/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=dateIssued&filter_type_1=equals&filter_value_1=%5B2020+TO+2025%5D&etal=0&filtername=dateIssued&filterquery=2020&filtertype=equals"}
+        ]
+    }
+}

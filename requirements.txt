@@ -1,0 +1,17 @@
+# --- Core Streamlit Application ---
+streamlit
+time
+
+# 're' (regex) and 'json' are built-in Python modules and do NOT need to be listed.
+# 'os' is a built-in Python module and does NOT need to be listed.
+
+# --- FastAPI/API Handling Libraries ---
+fastapi
+pydantic
+
+# The FastAPI server needs an ASGI server to run. The most common is uvicorn.
+# You will likely need to install this if you ran your backend locally.
+uvicorn 
+
+# --- API Request Library (You likely use this to talk to your API) ---
+requests 
